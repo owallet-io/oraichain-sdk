@@ -297,13 +297,6 @@
       "coinImageUrl": "https://assets.coingecko.com/coins/images/17980/standard/ton_symbol.png?1696517498"
     },
     {
-      "coinDenom": "2KEKIUS",
-      "coinMinimalDenom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/extCAT",
-      "coinDecimals": 6,
-      "coinGeckoId": "simon-s-cat",
-      "coinImageUrl": "https://imgcdn.stablediffusionweb.com/2024/3/3/e6c6b700-85fb-48c8-b657-56d7464dd9bd.jpg"
-    },
-    {
       "coinDenom": "RACKS",
       "coinMinimalDenom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/D7yP4ycfsRWUGYionGpi64sLF2ddZ2JXxuRAti2M7uck",
       "coinDecimals": 6,
