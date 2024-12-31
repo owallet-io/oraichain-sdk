@@ -383,6 +383,13 @@
       "coinDecimals": 6,
       "coinGeckoId": "simon-s-cat",
       "coinImageUrl": "https://assets.coingecko.com/coins/images/39765/standard/Simon's_Cat_Logo.png?1724017505"
+    },
+    {
+      "coinDenom": "LINKA",
+      "coinMinimalDenom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/extCAT2",
+      "coinDecimals": 6,
+      "coinGeckoId": "simon-s-cat",
+      "coinImageUrl": "https://assets.coingecko.com/coins/images/39765/standard/Simon's_Cat_Logo.png?1724017505"
     }
   ]
 }
