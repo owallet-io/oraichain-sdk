@@ -303,6 +303,13 @@
       "bridgeTo": ["solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp"],
       "coinGeckoId": "black-rack",
       "coinImageUrl": "https://ipfs.io/ipfs/QmVRPsBSHpamDzcDzVL9wsbB9gr4frtNrrFF7g44Xa9FuS"
+    },
+    {
+      "coinDenom": "KEKIUS",
+      "coinMinimalDenom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/extCAT",
+      "coinDecimals": 6,
+      "coinGeckoId": "simon-s-cat",
+      "coinImageUrl": "https://imgcdn.stablediffusionweb.com/2024/3/3/e6c6b700-85fb-48c8-b657-56d7464dd9bd.jpg"
     }
   ]
 }
